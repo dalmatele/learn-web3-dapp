@@ -59,3 +59,12 @@ Feel free to also open an Issue or a Pull Request on the repo itself.
 We hope you enjoy our Web 3 education dApps 🚀
 
 -- ❤️ The Figment Learn Team
+
+`north trust day agree reduce tortoise trust fancy satisfy marine tray sail`
+public key: `HanZmXibRU9Rpsw5uHeqKx6fJAKLygLNJT2PrxLZPku8`
+
+`solana airdrop 100 $(solana-keygen pubkey /Users/ducla/.config/solana/id.json)`
+
+`solana deploy -v --keypair /Users/ducla/.config/solana/id.json dist/solana/program/helloworld.so`
+
+Should install solana and rust from source, don't use brew in Macos
